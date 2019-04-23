@@ -11,5 +11,7 @@ Implementaion notes:
   
   -Solution:
     Versioning.
+    
     Latest - `websocket-client==0.54.0`
+    
     Works - `websocket-client==0.47.0`
