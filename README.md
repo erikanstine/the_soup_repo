@@ -8,7 +8,8 @@ Implementaion notes:
 
   -Error:
   `slackclient.server.SlackConnectionError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1056`
+  
   -Solution:
-    versioning.
+    Versioning.
     Latest - `websocket-client==0.54.0`
     Works - `websocket-client==0.47.0`
